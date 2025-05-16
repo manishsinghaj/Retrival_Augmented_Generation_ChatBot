@@ -8,3 +8,7 @@ chatbot_rag_personalized/
 │   ├── embedding.py
 │   └── personalization.py
 └── uploaded_docs/          ← Uploaded PDFs/texts (optional)
+
+
+python --version
+Python 3.12.0
