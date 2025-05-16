@@ -1,0 +1,13 @@
+streamlit
+chromadb
+langchain
+PyMuPDF
+tiktoken
+google-generativeai
+sentence-transformers
+transformers
+torch
+scikit-learn
+nltk
+rouge-score
+bert-score
